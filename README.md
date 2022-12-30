@@ -4,7 +4,8 @@ Orchestrating, designing, Cloud-Native applications, and utilizing AWS and Azure
 
 Primary Technologies: AWS, Azure DevOps, Kubernetes, Docker, Node.JS, Node-RED, JAMStack, React, Kafka, Redis, MongoDB, and Postgres
 
-"In the not-too-distant future, the world of technology had undergone a revolutionary shift. The once-dominant coding languages and operating systems had been relegated to the past, replaced by a new era of artificial intelligence, no-code platforms, and no-ops infrastructure.
+# Open AI - A Story
+> "In the not-too-distant future, the world of technology had undergone a revolutionary shift. The once-dominant coding languages and operating systems had been relegated to the past, replaced by a new era of artificial intelligence, no-code platforms, and no-ops infrastructure.
 
 At the forefront of this change was a company called "AI-No-Code-No-Ops, Inc." (ANNONI for short), which had developed a suite of innovative tools that allowed even the most technologically illiterate individuals to create and deploy sophisticated AI systems with ease.
 
@@ -14,4 +15,4 @@ For individuals, ANNONI's platform offered an opportunity to learn and apply AI 
 
 As ANNONI's platform gained widespread adoption, the traditional roles of coders and ops professionals began to fade away. But rather than being replaced, these individuals found themselves empowered by ANNONI's tools to take on new, more advanced roles within their organizations.
 
-In the end, the future of technology belonged to those who could harness the power of AI, no-code, and no-ops to create innovative solutions and drive progress forward. And ANNONI was at the forefront of it all, leading the charge into a brighter, smarter, and more efficient future." - Open AI, December 29th, 2022. 
+In the end, the future of technology belonged to those who could harness the power of AI, no-code, and no-ops to create innovative solutions and drive progress forward. And ANNONI was at the forefront of it all, leading the charge into a brighter, smarter, and more efficient future." - **Open AI, December 29th, 2022.**
