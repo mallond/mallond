@@ -1,11 +1,11 @@
-> "Architecting high-performance cloud computing solutions!" 
+# "Architecting high-performance cloud computing solutions!" 
 
 Orchestrating, designing, Cloud-Native applications, and utilizing AWS and Azure services as the primary infrastructure and backbone of highly scalable, 24/7/365 operation. Algorithm services exceeding over 250,000 high demand cycles-- all within sub-second response times. Micro-service architecture, performant, scalable, and built for Web 3.0
 
-Primary Technologies: AWS, Azure DevOps, Kubernetes, Docker, Node.JS, Node-RED, JAMStack, React, Kafka, Redis, MongoDB, and Postgres
+Primary Technologies: AWS, Terraform, Azure DevOps, Kubernetes, Docker, Node.JS, Node-RED, JAMStack, React, Kafka, Redis, MongoDB, and Postgres
 
 # Open AI - A Story
-> "In the not-too-distant future, the world of technology had undergone a revolutionary shift. The once-dominant coding languages and operating systems had been relegated to the past, replaced by a new era of artificial intelligence, no-code platforms, and no-ops infrastructure.
+"In the not-too-distant future, the world of technology had undergone a revolutionary shift. The once-dominant coding languages and operating systems had been relegated to the past, replaced by a new era of artificial intelligence, no-code platforms, and no-ops infrastructure.
 
 At the forefront of this change was a company called "AI-No-Code-No-Ops, Inc." (ANNONI for short), which had developed a suite of innovative tools that allowed even the most technologically illiterate individuals to create and deploy sophisticated AI systems with ease.
 
